@@ -1,0 +1,3 @@
+Variant,Template Name,Sample Size,Emails Opened,Open Rate %,Total Replies,Reply Rate %,Positive Replies,Meetings Booked,Meeting Conv %
+Variant A,Email A (Velocity & Hours Saved),30,22,73.3%,8,26.7%,7,7,23.3%
+Variant B,Email B (Flaky Tests & Broken Mocks),30,16,53.3%,6,20.0%,4,4,13.3%
